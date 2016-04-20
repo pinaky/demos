@@ -1,2 +1,2 @@
 # demos
-Scripts that demonstrate some concept in coding, math or engineering
+Demonstration scripts that don't belong in the utilities category.
